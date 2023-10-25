@@ -18,13 +18,13 @@
 
 |       |      Name      |                  E-mail                   |
 | :--------------: |  :---------------------------------------------: | :-----------: |
-|   <img src="/img/teste-1.png" alt="foto do integrante">  |  Seu Nome  | exemplo@gmail.com |
-<img src="/img/teste-1.png" alt="foto do integrante">  |  Seu Nome  | exemplo@gmail.com |
+|    ![teste-1](https://github.com/Etechnology8276/.github/assets/125401155/702f8c7e-6f34-4d03-9af9-91f825cf1c5c) |  Seu Nome  | exemplo@gmail.com |
+![teste-1](https://github.com/Etechnology8276/.github/assets/125401155/702f8c7e-6f34-4d03-9af9-91f825cf1c5c)  |  Seu Nome  | exemplo@gmail.com |
 
 # 👥Members
 
 |       |      Name      |                           Social Media                             |                 E-mail                   |
 | :--------------: | :----------------------------------------------------------: | :---------------------------------------------: | :-----------: |
-|   <img src="/img/teste-1.png" alt="foto do integrante">  |  Seu Nome  | <a href="https://github.com/b4hia"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/gabriel-de-oliveira-silva-reis-798447266/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | exemplo@gmail.com |
-<img src="/img/teste-1.png" alt="foto do integrante">  |  Seu Nome  | <a href="https://github.com/b4hia"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/gabriel-de-oliveira-silva-reis-798447266/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | exemplo@gmail.com |
-<img src="/img/teste-1.png" alt="foto do integrante"> |  Seu Nome  | <a href="https://github.com/b4hia"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/gabriel-de-oliveira-silva-reis-798447266/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | exemplo@gmail.com |
+|   ![teste-1](https://github.com/Etechnology8276/.github/assets/125401155/702f8c7e-6f34-4d03-9af9-91f825cf1c5c)  |  Seu Nome  | <a href="https://github.com/b4hia"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/gabriel-de-oliveira-silva-reis-798447266/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | exemplo@gmail.com |
+![teste-1](https://github.com/Etechnology8276/.github/assets/125401155/702f8c7e-6f34-4d03-9af9-91f825cf1c5c)  |  Seu Nome  | <a href="https://github.com/b4hia"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/gabriel-de-oliveira-silva-reis-798447266/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | exemplo@gmail.com |
+![teste-1](https://github.com/Etechnology8276/.github/assets/125401155/702f8c7e-6f34-4d03-9af9-91f825cf1c5c) |  Seu Nome  | <a href="https://github.com/b4hia"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/gabriel-de-oliveira-silva-reis-798447266/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> | exemplo@gmail.com |
